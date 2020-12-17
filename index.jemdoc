@@ -1,0 +1,19 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= Bradley Sturt
+
+~~~
+{}{img_left}{brads.jpg}{alt text}{237px}{257px}
+~~~
+
+
+== About Me
+I joined the [https://www.uic.edu/ University of Illinois Chicago] as an Assistant Professor of Business Analytics in Fall 2020. I received my Ph.D in [http://orc.mit.edu/ Operations Research] from [https://www.mit.edu MIT] in Spring 2020, supervised by [https://www.mit.edu/~dbertsim/ Dimitris Bertsimas]. Prior to MIT, I completed my undergraduate studies at the [https://illinois.edu/ University of Illinois Urbana-Champaign] in [https://ece.illinois.edu/ Computer Engineering] and did summer internships at Google and Facebook.   
+
+My research focuses on the intersection of optimization under uncertainty (stochastic, robust, dynamic) and machine learning, with applications in operations, business analytics, and finance. I am particularly interested in the development and application of data-driven methods to help organizations make better decisions in dynamic environments.  
+
+During graduate school, I received the MIT Sloan Outstanding Teaching Assistant Award (selected once per year by MBA students) and second place in the INFORMS George Nicholson Student Paper Competition. I also organized the student-run January class "15.S60 Computing for Statistics and Optimization" in [https://philchodrow.github.io/cos_2017/ 2017], [https://philchodrow.github.io/cos_2018/ 2018], and [https://github.com/adelarue/cos_2019 2019].
+
+More information on my work can be found on my [research.html research page] and [https://scholar.google.com/citations?user=eLXWjHoAAAAJ&hl=en Google Scholar]. 
+
+== Contact
+Email: bsturt (at) uic (dot) edu
