@@ -2,16 +2,6 @@
 = Research
 # jemdoc: addpackage{color}
 
-== Under Review
-
-*[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3797964 A Nonparametric Algorithm for Optimal Stopping based on Robust Optimization]*\n
-B. Sturt
-
-*[http://www.optimization-online.org/DB_FILE/2018/11/6907.pdf A Data-Driven Approach to Multi-Stage Stochastic Linear Optimization]*\n
-D. Bertsimas, S. Shtern, and B. Sturt\n{{<font color=red>Winner, MIT Operations Research Center Student Paper Competition (2019)</font>}} 
-
-*[https://arxiv.org/pdf/1907.07307.pdf Dynamic Optimization with Side Information]*\n
-D. Bertsimas, C. McCord, and B. Sturt\n
 
 == Journal Papers
 
@@ -21,12 +11,27 @@ D. Bertsimas, S. Shtern, and B. Sturt\n
 
 *[https://pubsonline.informs.org/doi/10.1287/opre.2019.1904 Computation of Exact Bootstrap Confidence Intervals: Complexity and Deterministic Algorithms]*\n
 D. Bertsimas and B. Sturt\n
-*Operations Research*, Vol. 68, No. 3, pp. 949-964 (2020)\n {{<font color=red>Second Place, INFORMS George Nicholson Student Paper Competition (2017)</font>}}
-
+*Operations Research*, Vol. 68, No. 3, pp. 949-964 (2020)\n #{{<font color=red>Second Place, INFORMS George Nicholson Student Paper Competition (2017)</font>}}
+/Second Place in INFORMS George Nicholson Student Paper Competition/ (2017)
 
 *[https://www.sciencedirect.com/science/article/pii/S0968090X15001631 The Path Most Traveled: Travel Demand Estimation Using Big Data Resources]*\n
 J.L. Toole, S. Colak, B. Sturt, L.P. Alexander, A. Evsukoff, and M.C. González\n
 *Transportation Research Part C: Emerging Technologies*, Vol. 58, pp. 162-177 (2015)
+
+== Under Review
+
+
+*[http://www.optimization-online.org/DB_FILE/2018/11/6907.pdf A Data-Driven Approach to Multi-Stage Stochastic Linear Optimization]*\n
+D. Bertsimas, S. Shtern, and B. Sturt\n 
+Minor revision in *Management Science* (2021) \n #{{<font color=red>Winner, MIT Operations Research Center Student Paper Competition (2019)</font>}}
+/Winner of MIT Operations Research Center Student Paper Competition/ (2019)
+
+*[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3797964 A Nonparametric Algorithm for Optimal Stopping based on Robust Optimization]*\n
+B. Sturt\n
+Major revision in *Operations Research* (2021)\n
+
+*[https://arxiv.org/pdf/1907.07307.pdf Dynamic Optimization with Side Information]*\n
+D. Bertsimas, C. McCord, and B. Sturt\n
 
 == Peer-Reviewed Conference Papers
 *[https://pdfs.semanticscholar.org/76a8/42f0b94b7bce274bc4963fe8ca127d0ce62d.pdf Personalized Entity Recommendation in Heterogeneous Information Networks with Implicit User Feedback]*\n

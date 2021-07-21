@@ -7,13 +7,17 @@
 
 
 == About Me
-I joined the [https://www.uic.edu/ University of Illinois at Chicago] as an assistant professor of Business Analytics in Fall 2020. I received my Ph.D in [http://orc.mit.edu/ Operations Research] from [https://www.mit.edu MIT] in Spring 2020, supervised by [https://www.mit.edu/~dbertsim/ Dimitris Bertsimas]. Prior to MIT, I completed my undergraduate studies at the [https://illinois.edu/ University of Illinois Urbana-Champaign] in [https://ece.illinois.edu/ Computer Engineering] and spent time at Google and Facebook.   
+Welcome to my website! I am an assistant professor of Business Analytics at the [https://www.uic.edu/ University of Illinois at Chicago]. I previously received my Ph.D in [http://orc.mit.edu/ Operations Research] from [https://www.mit.edu MIT] in Spring 2020, where I was supervised by [https://dbertsim.mit.edu/ Dimitris Bertsimas]. Prior to MIT, I completed my undergraduate studies at the [https://illinois.edu/ University of Illinois Urbana-Champaign] in [https://ece.illinois.edu/ Computer Engineering].   
 
-My research focuses on the intersection of optimization under uncertainty and machine learning, with applications to operations, business analytics, and finance. I am particularly interested in the development of tractable algorithms for stochastic dynamic optimization problems in data-driven environments. 
+My research focuses on optimization under uncertainty and machine learning in the context of operations management, finance, and business analytics. I am particularly interested in the development of tractable methods for solving stochastic and robust optimization problems that arise in managerial and data-driven applications. # and my work contributes to the fields of robust optimization, stochastic programming, and data-driven optimization. Some recent papers: #  Most of my work is Specifically, my recent work lies in the following two directions:
 
-During graduate school, I received the MIT Sloan Outstanding Teaching Assistant Award (selected once per year by MBA students) and second place in the INFORMS George Nicholson Student Paper Competition. I also organized the student-run January class "15.S60 Computing for Statistics and Optimization" in [https://philchodrow.github.io/cos_2017/ 2017], [https://philchodrow.github.io/cos_2018/ 2018], and [https://github.com/adelarue/cos_2019 2019].
+#- Repurposing techniques from the field of /robust optimization/ to design fast algorithms for solving /large-scale stochastic dynamic programming problems/. 
 
-More information on my work can be found on my [research.html research page] and [https://scholar.google.com/citations?user=eLXWjHoAAAAJ&hl=en Google Scholar]. 
+#- Developing theory and algorithms for counting solutions to combinatorial optimization problems: for problems Recent applications of my work have included options pricing,   My research focuses on the intersection of optimization under uncertainty and machine learning, with applications to operations, business analytics, and finance. I am interesting in using robust optimization to design near-optimal algorithms for stochastic control problems. 
+
+I am passionate about teaching! At UIC, I mainly teach MBA and undergraduate classes on business analytics and statistcs. During graduate school, I received the MIT Sloan Outstanding Teaching Assistant Award (selected once per year by MBA students) and co-organized the student-run class "15.S60 Computing for Statistics and Optimization" in [https://philchodrow.github.io/cos_2017/ 2017], [https://philchodrow.github.io/cos_2018/ 2018], and [https://github.com/adelarue/cos_2019 2019].
+
+More information about me can be found on my [research.html research page], my [cv.pdf CV], and [https://scholar.google.com/citations?user=eLXWjHoAAAAJ&hl=en Google Scholar]. 
 
 == Contact
 Email: bsturt (at) uic (dot) edu
