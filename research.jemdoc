@@ -7,19 +7,20 @@
 
 * Author names are listed in alphabetical order
 
-=== Under Review
-
+== Under Review
+- Improving the Security of United States Elections with Robust Optimization\n
+B. Crimmins, J. Halderman, and B. Sturt\*\n\n
 - [https://arxiv.org/pdf/2301.10642 Group Fairness in Dynamic Refugee Assignment]\n
-D. Freund, T. Lykouris, E. Paulson, B. Sturt, and W. Weng\*\n\n
+D. Freund, T. Lykouris, E. Paulson, B. Sturt, and W. Weng\*\n
+Preliminary version in *24th ACM Conference on Economics and Computation* (2023)\n\n
 - [https://arxiv.org/abs/2203.10661 On the Sparsity of Optimal Linear Decision Rules in Robust Inventory Management]\n
 H. Lu and B. Sturt\*\n
-Major revision in *Management Science* \n\n
+Major revision in *Management Science*  \n\n
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3981736 The Value of Robust Assortment Optimization Under Ranking-based Choice Models]\n
 B. Sturt\n
-Major revision in *Management Science* (Last updated February 2023) \n\n
-
-=== Journal Papers
-- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3797964 A Nonparametric Algorithm for Optimal Stopping based on Robust Optimization]\n
+Major revision in *Management Science* \n\n
+== Published
+- [https://pubsonline.informs.org/doi/full/10.1287/opre.2023.2461 A Nonparametric Algorithm for Optimal Stopping based on Robust Optimization]\n
 B. Sturt\n
 *Operations Research*, forthcoming (2023)\n {{<font color=red>Second Place, INFORMS Junior Faculty Interest Group (JFIG) Paper Competition (2021)</font>}}\n\n
 - [https://www.sciencedirect.com/science/article/abs/pii/S0377221722002545 Dynamic Optimization with Side Information]\n
@@ -37,8 +38,7 @@ D. Bertsimas and B. Sturt\*\n
 - [https://www.sciencedirect.com/science/article/pii/S0968090X15001631 The Path Most Traveled: Travel Demand Estimation Using Big Data Resources]\n
 J.L. Toole, S. Colak, B. Sturt, L.P. Alexander, A. Evsukoff, and M.C. González\n
 *Transportation Research Part C: Emerging Technologies*, Vol. 58, pp. 162-177 (2015)\n\n
-
-=== Peer-Reviewed Conference Papers
+#== Peer-Reviewed Conference Papers
 - [https://pdfs.semanticscholar.org/76a8/42f0b94b7bce274bc4963fe8ca127d0ce62d.pdf Personalized Entity Recommendation in Heterogeneous Information Networks with Implicit User Feedback]\n
 X. Yu, X. Ren, Y. Sun, Q. Gu, B. Sturt, U. Khandelwal, B. Norick, and J. Han\n
 *Proceedings of the 7th ACM International Conference on Web Search and Data Mining*, pp. 283-292 (2014)\n\n
