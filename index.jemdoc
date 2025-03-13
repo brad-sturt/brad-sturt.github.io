@@ -13,13 +13,16 @@ Assistant Professor of Business Analytics\n\n
 == About Me
 I am an assistant professor of business analytics at the University of Illinois Chicago, which I joined in Fall 2020. I completed my PhD in Operations Research from MIT in Spring 2020. Prior to that, I graduated with highest honors from the University of Illinois at Urbana-Champaign with a BS in Computer Engineering and a minor in Technology and Management.
 
-My research interest is optimization under uncertainty with focus on applications in operations, revenue management, and the public sector. Recent applications have included election security, data-driven assortment planning and pricing, optimal stopping, and refugee resettlement. I am also broadly interested in using robust optimization to design tractable approaches for dynamic optimization problems. My work has received several recognitions, including second place in the INFORMS Junior Faculty Interest Group (JFIG) Paper Competition and second place in the INFORMS George Nicholson Student Paper Competition.
+My research interest is optimization under uncertainty with focus on applications in operations, revenue management, and the public sector. Recent applications have included election administration, data-driven assortment planning and pricing, optimal stopping, and refugee resettlement. I am also broadly interested in using robust optimization to design tractable approaches for dynamic optimization problems. My work has received several recognitions, including second place in the INFORMS Junior Faculty Interest Group (JFIG) Paper Competition and second place in the INFORMS George Nicholson Student Paper Competition.
 
-Outside of academia, I am a co-founder of BallotIQ (an election administration startup).
-
-#More information can be found on my [research.html research page], my [cv.pdf CV], and on [https://scholar.google.com/citations?user=eLXWjHoAAAAJ&hl=en Google Scholar]. 
+Outside of academia, I am a co-founder of BallotIQ, an election administration startup.
 
 == News
+
+- Mar 2025: Upcoming talks: 
+-- Seminars: Oxford Saïd (June 2025), CUHK (May 2025), UCLA Anderson (Apr 2025)
+-- Workshops: University of Maryland Workshop on AI & Analytics for Social Good (May 2025)
+-- Conferences: INFORMS APS (June 2025), ICSP (August 2025)
 
 - Sept 2024: Our [https://arxiv.org/abs/2308.02306 paper] on election security and robust optimization was accepted to /Operations Research/. 
 
@@ -27,7 +30,7 @@ Outside of academia, I am a co-founder of BallotIQ (an election administration s
 -- Seminars: MIT ORC (Oct 2024), Cornell ORIE (Oct 2024), USC Industrial & Systems Engineering (Sept 2024), Microsoft Research (June 2024)
 -- Conferences: INFORMS (Oct 2024), ISMP (July 2024)
 
-- Aug 2024: New [https://optimization-online.org/wp-content/uploads/2024/08/the_blessing_of_strategic_customers_in_personalized_pricing.pdf preprint] on personalized pricing with strategic customers.
+#- Aug 2024: New [https://optimization-online.org/wp-content/uploads/2024/08/the_blessing_of_strategic_customers_in_personalized_pricing.pdf preprint] on personalized pricing with strategic customers.
 
 #- Feb 2024: My [https://optimization-online.org/wp-content/uploads/2021/12/robust_assortment_optimization_final.pdf paper] on assortment planning and robust optimization was accepted to /Management Science/ (Revenue Management and Market Analytics department).
 
@@ -35,7 +38,8 @@ Outside of academia, I am a co-founder of BallotIQ (an election administration s
 
 #- Dec 2023: I was featured in a [https://issuu.com/uicmagazine/docs/uicmagazine-05112023_final_digital UIC Magazine article] on using AI to improve society. 
 
-# - Dec 2023: Our [https://optimization-online.org/wp-content/uploads/2023/08/rlat.pdf paper] on improving the security of United States elections was presented in the Robust Optimization Webinar (ROW) series ([https://www.youtube.com/watch?v=ZpMgnrKhWzU Youtube link]).
+
+#- Dec 2023: Our [https://optimization-online.org/wp-content/uploads/2023/08/rlat.pdf paper] on improving the security of United States elections was presented in the Robust Optimization Webinar (ROW) series ([https://www.youtube.com/watch?v=ZpMgnrKhWzU Youtube link]).
 
 
 == Contact
