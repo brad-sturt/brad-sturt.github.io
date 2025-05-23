@@ -4,7 +4,7 @@
 ~~~
 {}{img_left}{brads.jpeg}{alt text}{256px}{265px}
 Bradley Sturt\n
-Assistant Professor of Business Analytics\n\n
+Assistant Professor of Information and Decision Sciences\n\n
 [https://business.uic.edu/faculty-and-research/faculty/information-and-decision-sciences-department/ Department of Information and Decision Sciences]\n
 [https://business.uic.edu/ UIC, College of Business Administration]\n\n
 Email: bsturt (at) uic (dot) edu
@@ -12,40 +12,18 @@ Email: bsturt (at) uic (dot) edu
 
 
 == About Me
-I am an assistant professor of business analytics at the University of Illinois Chicago, which I joined in Fall 2020. I completed my PhD in Operations Research from MIT in Spring 2020. Prior to that, I graduated with highest honors from the University of Illinois at Urbana-Champaign with a BS in Computer Engineering and a minor in Technology and Management.
+I am an assistant professor of Information and Decision Sciences at the University of Illinois Chicago, which I joined in Fall 2020. I completed my PhD in Operations Research from MIT in Spring 2020. Prior to that, I graduated with highest honors from the University of Illinois at Urbana-Champaign with a BS in Computer Engineering and a minor in Technology and Management.
 
 My research interest is optimization under uncertainty with focus on applications in operations, revenue management, and the public sector. Recent applications have included election security, data-driven assortment planning and pricing, options pricing, and refugee resettlement. I am also broadly interested in using robust optimization to design tractable approaches for dynamic optimization problems. My work has received several recognitions, including second place in the INFORMS Junior Faculty Interest Group (JFIG) Paper Competition and second place in the INFORMS George Nicholson Student Paper Competition.
 
 Outside of academia, I am a co-founder of BallotIQ, an election administration startup.
 
 == News
-- April 2025: Moderated a panel on mathematics and elections administration at the [https://electionverification.org/resources-events/evn-2025-conference/ 2025 Election Verification Network conference] in Washington DC.
-#- April 2025: Moderated a panel on mathematics and elections administration at the [https://electionverification.org/resources-events/evn-2025-conference/ 2025 Election Verification Network conference] in Washington DC. Thank you to the panelists Laura Albert, Alessandro Arlotto, and David Shmoys!
+- April 2025: Moderated a panel on mathematics and elections at the [https://electionverification.org/resources-events/evn-2025-conference/ 2025 Election Verification Network conference] in Washington DC.
 
-- Mar 2025: Our [https://optimization-online.org/wp-content/uploads/2022/03/Sparsity_of_Optimal_Linear_Decisions__OR__Final_.pdf paper] on sparsity of robust inventory policies was accepted to /Operations Research/.
+- Mar 2025: Our [https://pubsonline.informs.org/doi/abs/10.1287/opre.2023.0603 paper] on the sparsity of robust inventory policies was accepted to /Operations Research/.
 
 - Mar 2025: Upcoming talks: 
 -- Seminars: Oxford Saïd (June 2025), CUHK (May 2025), UCLA Anderson (Apr 2025)
 -- Workshops: University of Maryland Workshop on AI & Analytics for Social Good (May 2025)
 -- Conferences: INFORMS APS (June 2025), ICSP (August 2025)
-
-#- Sept 2024: Our [https://arxiv.org/abs/2308.02306 paper] on election security and robust optimization was accepted to /Operations Research/. 
-
-#- Aug 2024: Upcoming and recent talks: 
-#-- Seminars: MIT ORC (Oct 2024), Cornell ORIE (Oct 2024), USC Industrial & Systems Engineering (Sept 2024), Microsoft Research (June 2024)
-#-- Conferences: INFORMS (Oct 2024), ISMP (July 2024)
-
-#- Aug 2024: New [https://optimization-online.org/wp-content/uploads/2024/08/the_blessing_of_strategic_customers_in_personalized_pricing.pdf preprint] on personalized pricing with strategic customers.
-
-#- Feb 2024: My [https://optimization-online.org/wp-content/uploads/2021/12/robust_assortment_optimization_final.pdf paper] on assortment planning and robust optimization was accepted to /Management Science/ (Revenue Management and Market Analytics department).
-
-#- Feb 2024: A [https://dl.acm.org/doi/pdf/10.1145/2556195.2556259 paper] on recommendation systems that I co-authored as an undergraduate student received the /Test of Time Paper Award/ by the 2024 ACM International Conference on Web Search and Data Mining (WSDM).
-
-#- Dec 2023: I was featured in a [https://issuu.com/uicmagazine/docs/uicmagazine-05112023_final_digital UIC Magazine article] on using AI to improve society. 
-
-
-#- Dec 2023: Our [https://optimization-online.org/wp-content/uploads/2023/08/rlat.pdf paper] on improving the security of United States elections was presented in the Robust Optimization Webinar (ROW) series ([https://www.youtube.com/watch?v=ZpMgnrKhWzU Youtube link]).
-
-
-#== Contact
-#Email: bsturt (at) uic (dot) edu
