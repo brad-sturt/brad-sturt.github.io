@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html}, showsource
-= Bradley Sturt
+=Bradley Sturt
 
 ~~~
 {}{img_left}{brads.jpeg}{alt text}{256px}{265px}
@@ -12,18 +12,26 @@ Email: bsturt (at) uic (dot) edu
 
 
 == About Me
-I am an assistant professor of Information and Decision Sciences at the University of Illinois Chicago, which I joined in Fall 2020. I completed my PhD in Operations Research from MIT in Spring 2020. Prior to that, I graduated with highest honors from the University of Illinois at Urbana-Champaign with a BS in Computer Engineering and a minor in Technology and Management.
 
-My research interest is optimization under uncertainty with focus on applications in operations, revenue management, and the public sector. Recent applications have included election security, data-driven assortment planning and pricing, options pricing, and refugee resettlement. I am also broadly interested in using robust optimization to design tractable approaches for dynamic optimization problems. My work has received several recognitions, including second place in the INFORMS Junior Faculty Interest Group (JFIG) Paper Competition and second place in the INFORMS George Nicholson Student Paper Competition.
 
-Outside of academia, I am a co-founder of BallotIQ, an election administration startup.
+My research uses the methodologies of stochastic programming and robust optimization to develop solutions for operational problems in business and government. I study emerging problems in elections administration as well as fundamental problems in revenue management and dynamic optimization. Recent applications include election security, data-driven assortment planning, high-dimensional option pricing, and robust inventory control.
+
+
+My work has been recognized by a number of research awards, including the Roger J-B Wets Junior Researcher Best Paper Prize in Stochastic Programming, second place in the INFORMS Junior Faculty Interest Group Paper Competition, second place in the INFORMS George Nicholson Student Paper Competition, and the MIT Operations Research Center Best Student Paper Prize. 
+
+I joined the University of Illinois Chicago as an assistant professor of Information and Decision Sciences in Fall 2020. I received my PhD degree in Operations Research from MIT in 2020 and my Bachelor of Science from the University of Illinois Urbana Champaign in 2014.
+
+Outside of academia, I am a co-founder of BallotIQ, an elections administration startup.
+
 
 == News
-- April 2025: Moderated a panel on mathematics and elections at the [https://electionverification.org/resources-events/evn-2025-conference/ 2025 Election Verification Network conference] in Washington DC.
+- Aug 2025: Honored to be the inaugural winner of the [https://connect.informs.org/discussion/congratulations-to-the-winner-and-runner-up-of-the-2025-roger-j-b-wets-junior-researcher-best-paper-prize Roger J-B Wets Junior Researcher Best Paper Prize in Stochastic Programming]. Many thanks to the Stochastic Programming Society and the Wets family!
+
+- Apr 2025: Moderated a panel on mathematics and elections at the [https://electionverification.org/resources-events/evn-2025-conference/ 2025 Election Verification Network conference] in Washington DC.
 
 - Mar 2025: Our [https://pubsonline.informs.org/doi/abs/10.1287/opre.2023.0603 paper] on the sparsity of robust inventory policies was accepted to /Operations Research/.
 
-- Mar 2025: Upcoming talks: 
--- Seminars: Oxford Saïd (June 2025), CUHK (May 2025), UCLA Anderson (Apr 2025)
--- Workshops: University of Maryland Workshop on AI & Analytics for Social Good (May 2025)
--- Conferences: INFORMS APS (June 2025), ICSP (August 2025)
+#- Mar 2025: Upcoming talks: 
+#-- Seminars: Oxford Saïd (June 2025), CUHK (May 2025), UCLA Anderson (Apr 2025)
+#-- Workshops: University of Maryland Workshop on AI & Analytics for Social Good (May 2025)
+#-- Conferences: INFORMS APS (June 2025), ICSP (August 2025)
